@@ -1,5 +1,18 @@
 # Plant-Disease-Recognition-System
-Plant Disease Recognition System
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+1. [Steps to Download and Place the Model](#steps-to-download-and-place-the-model)
+1. [Usage](#usage)
+
+</details>
+
+![System Overview](readme1.jpeg)
+IIT Guwahati, Guwahati, Assam, India
 
 # Model Setup Instructions
 
@@ -8,7 +21,7 @@ To use this project, you need to download a pre-trained model from the given Goo
 ## Steps to Download and Place the Model
 
 1. **Download the Model**
-   - Click [here](https://drive.google.com/file/d/1Ond7UzrNOfdAXWedjlZr2sDXYU6MRBuj/view?usp=sharing) to open the Google Drive link.
+   - Click [here](https://drive.google.com/file/d/1w1oNxrGwJPINp_mAtOXFB5VvBltH-83U/view?usp=sharing) to open the Google Drive link.
    - Click the **Download** button to save the file to your local system.
 
 2. **Create the Models Folder**
@@ -55,3 +68,13 @@ To use this project, you need to download a pre-trained model from the given Goo
 
 3. **Access the Application**
    - Once the server is running, follow the instructions displayed in the terminal to access the application in your web browser.
+
+| Field         | Details                                                                 |
+|---------------|------------------------------------------------------------------------|
+| Team Name     | Crecent Coders                                                         |
+| Name          | Masuddar Rahaman                                                       |
+| College       | Siliguri Institute of Technology                                       |
+| Course        | B.Tech IT, 2nd Year                                                    |
+| Email         | masuddarrahaman31@gmail.com                                            |
+| LinkedIn      | [Masuddar Rahaman](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/) |
+| Date          | May 21, 2025                                                           |
